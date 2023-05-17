@@ -1,2 +1,5 @@
-# projeto1webdev
-Site em HTML5 e CSS3 com o objetivo de treinar habilidades com as linguagens.
+# projectWebDev
+
+Landing page for a Web Developer Course, made with HTML5 and CSS3
+
+https://webdevcoursersb.netlify.app/
